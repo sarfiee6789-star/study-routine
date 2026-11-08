@@ -14,3 +14,6 @@ veda-web-core/
 .env
 .env.*
 !.env.example
+.serverless/
+*.bak
+*.zip
